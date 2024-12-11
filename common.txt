@@ -1,2 +1,7 @@
 Hello World!
+<<<<<<< HEAD
 Добрий день механіко-математичний!
+=======
+Привіт Мех-мат!
+>>>>>>> dev
+Another change in common.txt
